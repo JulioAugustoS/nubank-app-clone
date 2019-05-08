@@ -28,27 +28,12 @@
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		14E8E74C64DE4AC9B6CC5538 /* libRNVectorIcons.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3247A5591E2445788BB53F13 /* libRNVectorIcons.a */; };
 		15437B57304E4584B2074BDE /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AAC1280F87104B48B9D3C11B /* FontAwesome.ttf */; };
-		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
-		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
-		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2D02E4C21E0B4AEC006451C7 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157351DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
-		2D02E4C31E0B4AEC006451C7 /* libRCTImage-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E841DF850E9000B6D8A /* libRCTImage-tvOS.a */; };
-		2D02E4C41E0B4AEC006451C7 /* libRCTLinking-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E881DF850E9000B6D8A /* libRCTLinking-tvOS.a */; };
-		2D02E4C51E0B4AEC006451C7 /* libRCTNetwork-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E8C1DF850E9000B6D8A /* libRCTNetwork-tvOS.a */; };
-		2D02E4C61E0B4AEC006451C7 /* libRCTSettings-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E901DF850E9000B6D8A /* libRCTSettings-tvOS.a */; };
-		2D02E4C71E0B4AEC006451C7 /* libRCTText-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E941DF850E9000B6D8A /* libRCTText-tvOS.a */; };
-		2D02E4C81E0B4AEC006451C7 /* libRCTWebSocket-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E991DF850E9000B6D8A /* libRCTWebSocket-tvOS.a */; };
-		2D16E6881FA4F8E400B85C8A /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D16E6891FA4F8E400B85C8A /* libReact.a */; };
-		2DCD954D1E0B4F2C00145EB5 /* nu_bank_interfaceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* nu_bank_interfaceTests.m */; };
-		2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA31DF850E9000B6D8A /* libReact.a */; };
 		38146537975F4C0F887416FE /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D5D1F9BF7A3547908C0D1E0F /* MaterialCommunityIcons.ttf */; };
-		4A2E8F5DBDD84AF4B51F7754 /* libRNVectorIcons-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 14361CF0023C431FB2D1F0A6 /* libRNVectorIcons-tvOS.a */; };
 		51184254AA12443A9FA5046E /* libSplashScreen.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7444A46C491C4E768A17A48E /* libSplashScreen.a */; };
 		67C21503CF80426C8BB90E68 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A1E58FB04AF54AB383C069C0 /* Octicons.ttf */; };
 		74D376C42C364A52BD903275 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BDCDDFE460924C049F9BA50F /* Entypo.ttf */; };
 		7C8D313DE97542918AAD5074 /* libRNGestureHandler.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 835A9D0CBFDF43569DCB82B2 /* libRNGestureHandler.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
-		8BF68C8A707A4B88845B9874 /* libRNGestureHandler-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 755E387946314773BEB0F50E /* libRNGestureHandler-tvOS.a */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
 		B4B216654A174B0FB64FAAC1 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 50A23520A69F4127BBC1B51D /* AntDesign.ttf */; };
 		B6218DB39F6C4B4788E63F8C /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3EA73004B0DC418EB70E722B /* Feather.ttf */; };
@@ -58,7 +43,6 @@
 		D8BB807C632B4F81B18B7064 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 76724A2CF6494497AEAE1D8A /* EvilIcons.ttf */; };
 		E1F20FE5D28E47EFA7CF8406 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6B033AD6E5C64E0999E0E550 /* Foundation.ttf */; };
 		ED297163215061F000B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED297162215061F000B7C4FE /* JavaScriptCore.framework */; };
-		ED2971652150620600B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED2971642150620600B7C4FE /* JavaScriptCore.framework */; };
 		F018E59E72F44A9899EE0A92 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BCCDA9231A8B41D59D5ADA19 /* FontAwesome5_Brands.ttf */; };
 /* End PBXBuildFile section */
 
@@ -125,13 +109,6 @@
 			proxyType = 2;
 			remoteGlobalIDString = 83CBBA2E1A601D0E00E9B192;
 			remoteInfo = React;
-		};
-		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "nu_bank_interface-tvOS";
 		};
 		2D16E6711FA4F8DC00B85C8A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -396,8 +373,6 @@
 		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = "../node_modules/react-native/React/React.xcodeproj"; sourceTree = "<group>"; };
 		22D452CA85784F16B929C023 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
 		249DC47434B644919F542CDF /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* nu_bank_interface-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "nu_bank_interface-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* nu_bank_interface-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "nu_bank_interface-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D16E6891FA4F8E400B85C8A /* libReact.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libReact.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		3247A5591E2445788BB53F13 /* libRNVectorIcons.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNVectorIcons.a; sourceTree = "<group>"; };
 		324FA23571BA4C9FBD453C5A /* SplashScreen.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = SplashScreen.xcodeproj; path = "../node_modules/react-native-splash-screen/ios/SplashScreen.xcodeproj"; sourceTree = "<group>"; };
@@ -456,32 +431,6 @@
 				7C8D313DE97542918AAD5074 /* libRNGestureHandler.a in Frameworks */,
 				14E8E74C64DE4AC9B6CC5538 /* libRNVectorIcons.a in Frameworks */,
 				51184254AA12443A9FA5046E /* libSplashScreen.a in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		2D02E4781E0B4A5D006451C7 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				ED2971652150620600B7C4FE /* JavaScriptCore.framework in Frameworks */,
-				2D16E6881FA4F8E400B85C8A /* libReact.a in Frameworks */,
-				2D02E4C21E0B4AEC006451C7 /* libRCTAnimation.a in Frameworks */,
-				2D02E4C31E0B4AEC006451C7 /* libRCTImage-tvOS.a in Frameworks */,
-				2D02E4C41E0B4AEC006451C7 /* libRCTLinking-tvOS.a in Frameworks */,
-				2D02E4C51E0B4AEC006451C7 /* libRCTNetwork-tvOS.a in Frameworks */,
-				2D02E4C61E0B4AEC006451C7 /* libRCTSettings-tvOS.a in Frameworks */,
-				2D02E4C71E0B4AEC006451C7 /* libRCTText-tvOS.a in Frameworks */,
-				2D02E4C81E0B4AEC006451C7 /* libRCTWebSocket-tvOS.a in Frameworks */,
-				8BF68C8A707A4B88845B9874 /* libRNGestureHandler-tvOS.a in Frameworks */,
-				4A2E8F5DBDD84AF4B51F7754 /* libRNVectorIcons-tvOS.a in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		2D02E48D1E0B4A5D006451C7 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -744,8 +693,6 @@
 			children = (
 				13B07F961A680F5B00A75B9A /* nu_bank_interface.app */,
 				00E356EE1AD99517003FC87E /* nu_bank_interfaceTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* nu_bank_interface-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* nu_bank_interface-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -798,42 +745,6 @@
 			productReference = 13B07F961A680F5B00A75B9A /* nu_bank_interface.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* nu_bank_interface-tvOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "nu_bank_interface-tvOS" */;
-			buildPhases = (
-				2D02E4771E0B4A5D006451C7 /* Sources */,
-				2D02E4781E0B4A5D006451C7 /* Frameworks */,
-				2D02E4791E0B4A5D006451C7 /* Resources */,
-				2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "nu_bank_interface-tvOS";
-			productName = "nu_bank_interface-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* nu_bank_interface-tvOS.app */;
-			productType = "com.apple.product-type.application";
-		};
-		2D02E48F1E0B4A5D006451C7 /* nu_bank_interface-tvOSTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "nu_bank_interface-tvOSTests" */;
-			buildPhases = (
-				2D02E48C1E0B4A5D006451C7 /* Sources */,
-				2D02E48D1E0B4A5D006451C7 /* Frameworks */,
-				2D02E48E1E0B4A5D006451C7 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
-			);
-			name = "nu_bank_interface-tvOSTests";
-			productName = "nu_bank_interface-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* nu_bank_interface-tvOSTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -850,15 +761,7 @@
 					};
 					13B07F861A680F5B00A75B9A = {
 						DevelopmentTeam = CE2N9W8684;
-					};
-					2D02E47A1E0B4A5D006451C7 = {
-						CreatedOnToolsVersion = 8.2.1;
-						ProvisioningStyle = Automatic;
-					};
-					2D02E48F1E0B4A5D006451C7 = {
-						CreatedOnToolsVersion = 8.2.1;
-						ProvisioningStyle = Automatic;
-						TestTargetID = 2D02E47A1E0B4A5D006451C7;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -939,8 +842,6 @@
 			targets = (
 				13B07F861A680F5B00A75B9A /* nu_bank_interface */,
 				00E356ED1AD99517003FC87E /* nu_bank_interfaceTests */,
-				2D02E47A1E0B4A5D006451C7 /* nu_bank_interface-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* nu_bank_interface-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -1274,21 +1175,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2D02E4791E0B4A5D006451C7 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		2D02E48E1E0B4A5D006451C7 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
@@ -1300,20 +1186,6 @@
 			inputPaths = (
 			);
 			name = "Bundle React Native code and images";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
-		};
-		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Bundle React Native Code And Images";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1340,23 +1212,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2D02E4771E0B4A5D006451C7 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */,
-				2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		2D02E48C1E0B4A5D006451C7 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				2DCD954D1E0B4F2C00145EB5 /* nu_bank_interfaceTests.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -1364,11 +1219,6 @@
 			isa = PBXTargetDependency;
 			target = 13B07F861A680F5B00A75B9A /* nu_bank_interface */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
-		};
-		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* nu_bank_interface-tvOS */;
-			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -1458,6 +1308,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = CE2N9W8684;
@@ -1475,8 +1326,9 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.projecttest.br;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.app-test.test";
 				PRODUCT_NAME = nu_bank_interface;
+				PROVISIONING_PROFILE_SPECIFIER = "App Test";
 				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1486,6 +1338,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = CE2N9W8684;
 				HEADER_SEARCH_PATHS = (
@@ -1502,168 +1355,11 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.projecttest.br;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.app-test.test";
 				PRODUCT_NAME = nu_bank_interface;
+				PROVISIONING_PROFILE_SPECIFIER = "App Test";
 				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
-			};
-			name = Release;
-		};
-		2D02E4971E0B4A5E006451C7 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				ENABLE_TESTABILITY = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-gesture-handler/ios/**",
-					"$(SRCROOT)/../node_modules/react-native-vector-icons/RNVectorIconsManager",
-					"$(SRCROOT)/../node_modules/react-native-splash-screen/ios",
-				);
-				INFOPLIST_FILE = "nu_bank_interface-tvOS/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-				);
-				OTHER_LDFLAGS = (
-					"-ObjC",
-					"-lc++",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.nu_bank_interface-tvOS";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = appletvos;
-				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 9.2;
-			};
-			name = Debug;
-		};
-		2D02E4981E0B4A5E006451C7 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				GCC_NO_COMMON_BLOCKS = YES;
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-gesture-handler/ios/**",
-					"$(SRCROOT)/../node_modules/react-native-vector-icons/RNVectorIconsManager",
-					"$(SRCROOT)/../node_modules/react-native-splash-screen/ios",
-				);
-				INFOPLIST_FILE = "nu_bank_interface-tvOS/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-				);
-				OTHER_LDFLAGS = (
-					"-ObjC",
-					"-lc++",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.nu_bank_interface-tvOS";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = appletvos;
-				TARGETED_DEVICE_FAMILY = 3;
-				TVOS_DEPLOYMENT_TARGET = 9.2;
-			};
-			name = Release;
-		};
-		2D02E4991E0B4A5E006451C7 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				ENABLE_TESTABILITY = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-gesture-handler/ios/**",
-					"$(SRCROOT)/../node_modules/react-native-vector-icons/RNVectorIconsManager",
-					"$(SRCROOT)/../node_modules/react-native-splash-screen/ios",
-				);
-				INFOPLIST_FILE = "nu_bank_interface-tvOSTests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-				);
-				OTHER_LDFLAGS = (
-					"-ObjC",
-					"-lc++",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.nu_bank_interface-tvOSTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/nu_bank_interface-tvOS.app/nu_bank_interface-tvOS";
-				TVOS_DEPLOYMENT_TARGET = 10.1;
-			};
-			name = Debug;
-		};
-		2D02E49A1E0B4A5E006451C7 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				GCC_NO_COMMON_BLOCKS = YES;
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-gesture-handler/ios/**",
-					"$(SRCROOT)/../node_modules/react-native-vector-icons/RNVectorIconsManager",
-					"$(SRCROOT)/../node_modules/react-native-splash-screen/ios",
-				);
-				INFOPLIST_FILE = "nu_bank_interface-tvOSTests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-				);
-				OTHER_LDFLAGS = (
-					"-ObjC",
-					"-lc++",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.nu_bank_interface-tvOSTests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/nu_bank_interface-tvOS.app/nu_bank_interface-tvOS";
-				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
 		};
@@ -1783,24 +1479,6 @@
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
 				13B07F951A680F5B00A75B9A /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "nu_bank_interface-tvOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				2D02E4971E0B4A5E006451C7 /* Debug */,
-				2D02E4981E0B4A5E006451C7 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "nu_bank_interface-tvOSTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				2D02E4991E0B4A5E006451C7 /* Debug */,
-				2D02E49A1E0B4A5E006451C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
