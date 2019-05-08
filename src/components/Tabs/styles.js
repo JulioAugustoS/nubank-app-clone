@@ -17,7 +17,8 @@ const TabItem = styled.View`
   height: 100px;
   background: rgba(255, 255, 255, 0.20);
   border-radius: 3px;
-  margin-left: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
   padding: 10px;
   justify-content: space-between;
 `;

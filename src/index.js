@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-      <StatusBar barStyle="light-content" backgroundColor="#8B10AE" />
+      <StatusBar barStyle="light-content" backgroundColor="#f39c12" />
       <Routes />
     </>
   );

@@ -20,7 +20,7 @@ export default function Menu({ translateY }) {
           value="https://julioautusto.me"
           size={80}
           fgColor="#FFF"
-          bgColor="#8B10AE"
+          bgColor="#f39c12"
         />
       </Code>
       <Nav>
